@@ -260,6 +260,8 @@ Converters from various static schedule formats to and from GTFS.
 
 #### GTFS Timetable Publishing Tools
 
+- [Headway](https://headway.shivrajsinh.in) - Phone-friendly transit timetable generator built on open GTFS data, featuring whole-day timetable matrices, scheduled headway frequency breakdowns, and live next departure boards.
+- [Stopwatch Transit](https://transit.shivrajsinh.in) - High-performance static transit timetable directory and next-departure explorer for 120+ transit networks across 6 countries, generated directly from open GTFS schedules.
 - [GTFS-to-HTML](https://gtfstohtml.com) - Generate human-readable timetables in HTML or PDF format directly from GTFS.
 - [Timetable Kit](https://github.com/neroden/timetable_kit) - An open source Python 3.10 module and scripts depending on [GTFS Kit](https://github.com/mrcagney/gtfs_kit), designed to create complex printed/PDF timetables with flexible layouts. Currently only working out of the box for Amtrak's GTFS, but under active development. 
 - [TimeTablePublisher (TTPUB)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
@@ -471,6 +473,8 @@ Places to access collections of GTFS and other transit and multimodal data.
 Apps people use when taking transit.
 
 #### Web Apps (open source)
+- [Headway](https://headway.shivrajsinh.in) - Lightning-fast, mobile-first bus and transit timetables, headway frequencies, and stop departure schedules with sub-second FCP. Open-source [on GitHub](https://github.com/shivrajsinhzala/headway).
+- [Stopwatch Transit](https://transit.shivrajsinh.in) - Free bus, tram, train and ferry timetables across 120+ transit agencies in 6 countries, built on open GTFS. Open-source [on GitHub](https://github.com/shivrajsinhzala/transit-timetables).
 - [MOTIS](https://motis-project.org) - Web UI for the MOTIS mobility platform (routing, geocoding, live transit map, etc.).
 - [Catenary Maps](https://catenarymaps.org) - Realtime and Schedule global public transport map and navigation software, written in Rust and Svelte.
 - [Instabus](https://github.com/luqmaan/instabus) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages. No longer maintained; the instabus.org domain no longer points at the project.
